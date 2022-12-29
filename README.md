@@ -1,9 +1,13 @@
 <h1 align="center">Termux</h1>
 
-<a href="https://wiki.termux.com/wiki/Remote_Access" target="_blank">Termux Access</a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fishsticksnom/termux-config/main/assets/termux.png" alt="termux-img" width="200" />
+</div>
+
 
 ## Remote Access
- 
+<a href="https://wiki.termux.com/wiki/Remote_Access" target="_blank">Termux Access</a>
+
 ```bash
 passwd
 New password:
